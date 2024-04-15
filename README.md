@@ -9,5 +9,9 @@ Leveraging OpenMP in C++ to parallelize neural networks, enhancing their perform
 ## Speed up
 ![image](https://github.com/malathi-1588/HPC_NeuralNetwork/assets/116137959/00cd7bd0-c677-4884-9ef5-787bad9cce5e)
 
+## Speed up Percentage
+![image](https://github.com/malathi-1588/HPC_NeuralNetwork/assets/116137959/f01ff7c7-9231-4573-aca1-0ab4b58bd24a)
+
+
 
 
